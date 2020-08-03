@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13f79efc-6851-4251-a8f1-92bd2db2ce93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aaccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aaccess.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -56,6 +61,20 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
+  <component name="RunManager">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo1" />
+      <module name="day25_spring" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -78,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596426391010</updated>
-      <workItem from="1596426394800" duration="1056000" />
+      <workItem from="1596426394800" duration="3568000" />
     </task>
     <task id="LOCAL-00001" summary="this is a maven project!">
       <created>1596426549184</created>
@@ -94,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596427343607</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="this is a">
+      <created>1596427469642</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596427469642</updated>
+    </task>
+    <task id="LOCAL-00004" summary="this is aoo">
+      <created>1596427658914</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596427658914</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,13 +135,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="this is a maven project!" />
-    <option name="LAST_COMMIT_MESSAGE" value="this is a maven project!" />
+    <MESSAGE value="this is a" />
+    <MESSAGE value="this is aoo" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is aoo" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1596427469134">
+    <state x="446" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1596438696145">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1596427469134" />
+    <state x="446" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1596438696145" />
+    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1596427658429">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1596427658429" />
     <state x="421" y="124" key="FileChooserDialogImpl" timestamp="1596427624207">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -117,9 +156,9 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="144" y="25" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1596427408577" />
-    <state x="233" y="116" key="Vcs.Push.Dialog.v2" timestamp="1596427611783">
+    <state x="233" y="116" key="Vcs.Push.Dialog.v2" timestamp="1596427706826">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="233" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1596427611783" />
+    <state x="233" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1596427706826" />
   </component>
 </project>
